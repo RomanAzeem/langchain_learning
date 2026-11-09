@@ -1,0 +1,4 @@
+.env
+.venv
+.jupyter
+.ipynb_checkpoints
